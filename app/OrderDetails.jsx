@@ -9,6 +9,7 @@ import {
     Alert,
     TextInput,
     Dimensions,
+    Alert,
 
 } from "react-native";
 import Ionicons from 'react-native-vector-icons/Ionicons';
